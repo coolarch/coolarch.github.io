@@ -1,0 +1,237 @@
+.twitter { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #4da7de; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.twitter { text-decoration: none; }
+a.twitter:hover, a.twitter:visited, a.twitter:active { color: #eeeeee; }
+.facebook { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #3e5b98; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.facebook { text-decoration: none; }
+a.facebook:hover, a.facebook:visited, a.facebook:active { color: #eeeeee; }
+.google { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #d93e2d; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.google { text-decoration: none; }
+a.google:hover, a.google:visited, a.google:active { color: #eeeeee; }
+.pinterest { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #c92619; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.pinterest { text-decoration: none; }
+a.pinterest:hover, a.pinterest:visited, a.pinterest:active { color: #eeeeee; }
+.foursquare { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #F94877; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.foursquare { text-decoration: none; }
+a.foursquare:hover, a.foursquare:visited, a.foursquare:active { color: #eeeeee; }
+.yahoo { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #6E2A85; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.yahoo { text-decoration: none; }
+a.yahoo:hover, a.yahoo:visited, a.yahoo:active { color: #eeeeee; }
+.skype { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #28abe3; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.skype { text-decoration: none; }
+a.skype:hover, a.skype:visited, a.skype:active { color: #eeeeee; }
+.yelp { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #c83218; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.yelp { text-decoration: none; }
+a.yelp:hover, a.yelp:visited, a.yelp:active { color: #eeeeee; }
+.feedburner { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #FFCC00; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.feedburner { text-decoration: none; }
+a.feedburner:hover, a.feedburner:visited, a.feedburner:active { color: #eeeeee; }
+.linkedin { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #3371b7; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.linkedin { text-decoration: none; }
+a.linkedin:hover, a.linkedin:visited, a.linkedin:active { color: #eeeeee; }
+.viadeo { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e4a000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.viadeo { text-decoration: none; }
+a.viadeo:hover, a.viadeo:visited, a.viadeo:active { color: #eeeeee; }
+.xing { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #005a60; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.xing { text-decoration: none; }
+a.xing:hover, a.xing:visited, a.xing:active { color: #eeeeee; }
+.myspace { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #323232; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.myspace { text-decoration: none; }
+a.myspace:hover, a.myspace:visited, a.myspace:active { color: #eeeeee; }
+.soundcloud { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #fe3801; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.soundcloud { text-decoration: none; }
+a.soundcloud:hover, a.soundcloud:visited, a.soundcloud:active { color: #eeeeee; }
+.spotify { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #7bb342; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.spotify { text-decoration: none; }
+a.spotify:hover, a.spotify:visited, a.spotify:active { color: #eeeeee; }
+.grooveshark { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.grooveshark { text-decoration: none; }
+a.grooveshark:hover, a.grooveshark:visited, a.grooveshark:active { color: #eeeeee; }
+.lastfm { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #d41316; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.lastfm { text-decoration: none; }
+a.lastfm:hover, a.lastfm:visited, a.lastfm:active { color: #eeeeee; }
+.youtube { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e02a20; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.youtube { text-decoration: none; }
+a.youtube:hover, a.youtube:visited, a.youtube:active { color: #eeeeee; }
+.vimeo { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #51b5e7; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.vimeo { text-decoration: none; }
+a.vimeo:hover, a.vimeo:visited, a.vimeo:active { color: #eeeeee; }
+.dailymotion { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #004e72; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.dailymotion { text-decoration: none; }
+a.dailymotion:hover, a.dailymotion:visited, a.dailymotion:active { color: #eeeeee; }
+.vine { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #00b389; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.vine { text-decoration: none; }
+a.vine:hover, a.vine:visited, a.vine:active { color: #eeeeee; }
+.flickr { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #1e1e1b; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.flickr { text-decoration: none; }
+a.flickr:hover, a.flickr:visited, a.flickr:active { color: #eeeeee; }
+.500px { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #58a9de; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.500px { text-decoration: none; }
+a.500px:hover, a.500px:visited, a.500px:active { color: #eeeeee; }
+.instagram { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #9c7c6e; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.instagram { text-decoration: none; }
+a.instagram:hover, a.instagram:visited, a.instagram:active { color: #eeeeee; }
+.wordpress { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #464646; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.wordpress { text-decoration: none; }
+a.wordpress:hover, a.wordpress:visited, a.wordpress:active { color: #eeeeee; }
+.tumblr { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #45556c; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.tumblr { text-decoration: none; }
+a.tumblr:hover, a.tumblr:visited, a.tumblr:active { color: #eeeeee; }
+.blogger { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #ec661c; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.blogger { text-decoration: none; }
+a.blogger:hover, a.blogger:visited, a.blogger:active { color: #eeeeee; }
+.technorati { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #5cb030; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.technorati { text-decoration: none; }
+a.technorati:hover, a.technorati:visited, a.technorati:active { color: #eeeeee; }
+.reddit { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e74a1e; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.reddit { text-decoration: none; }
+a.reddit:hover, a.reddit:visited, a.reddit:active { color: #eeeeee; }
+.dribbble { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e84d88; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.dribbble { text-decoration: none; }
+a.dribbble:hover, a.dribbble:visited, a.dribbble:active { color: #eeeeee; }
+.stumbleupon { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e64011; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.stumbleupon { text-decoration: none; }
+a.stumbleupon:hover, a.stumbleupon:visited, a.stumbleupon:active { color: #eeeeee; }
+.digg { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #1d1d1b; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.digg { text-decoration: none; }
+a.digg:hover, a.digg:visited, a.digg:active { color: #eeeeee; }
+.envato { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #597c3a; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.envato { text-decoration: none; }
+a.envato:hover, a.envato:visited, a.envato:active { color: #eeeeee; }
+.behance { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.behance { text-decoration: none; }
+a.behance:hover, a.behance:visited, a.behance:active { color: #eeeeee; }
+.delicious { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #020202; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.delicious { text-decoration: none; }
+a.delicious:hover, a.delicious:visited, a.delicious:active { color: #eeeeee; }
+.deviantart { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #c5d200; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.deviantart { text-decoration: none; }
+a.deviantart:hover, a.deviantart:visited, a.deviantart:active { color: #eeeeee; }
+.forrst { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #5B9A68; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.forrst { text-decoration: none; }
+a.forrst:hover, a.forrst:visited, a.forrst:active { color: #eeeeee; }
+.play { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.play { text-decoration: none; }
+a.play:hover, a.play:visited, a.play:active { color: #eeeeee; }
+.zerply { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #9DBC7A; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.zerply { text-decoration: none; }
+a.zerply:hover, a.zerply:visited, a.zerply:active { color: #eeeeee; }
+.wikipedia { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.wikipedia { text-decoration: none; }
+a.wikipedia:hover, a.wikipedia:visited, a.wikipedia:active { color: #eeeeee; }
+.apple { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #B9BFC1; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.apple { text-decoration: none; }
+a.apple:hover, a.apple:visited, a.apple:active { color: #eeeeee; }
+.flattr { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #F67C1A; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.flattr { text-decoration: none; }
+a.flattr:hover, a.flattr:visited, a.flattr:active { color: #eeeeee; }
+.github { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #221e1b; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.github { text-decoration: none; }
+a.github:hover, a.github:visited, a.github:active { color: #eeeeee; }
+.chimein { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #888688; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.chimein { text-decoration: none; }
+a.chimein:hover, a.chimein:visited, a.chimein:active { color: #eeeeee; }
+.friendfeed { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #2F72C4; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.friendfeed { text-decoration: none; }
+a.friendfeed:hover, a.friendfeed:visited, a.friendfeed:active { color: #eeeeee; }
+.newsvine { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #075B2F; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.newsvine { text-decoration: none; }
+a.newsvine:hover, a.newsvine:visited, a.newsvine:active { color: #eeeeee; }
+.identica { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.identica { text-decoration: none; }
+a.identica:hover, a.identica:visited, a.identica:active { color: #eeeeee; }
+.bebo { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #EF1011; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.bebo { text-decoration: none; }
+a.bebo:hover, a.bebo:visited, a.bebo:active { color: #eeeeee; }
+.zynga { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #DC0606; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.zynga { text-decoration: none; }
+a.zynga:hover, a.zynga:visited, a.zynga:active { color: #eeeeee; }
+.steam { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #8F8D8A; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.steam { text-decoration: none; }
+a.steam:hover, a.steam:visited, a.steam:active { color: #eeeeee; }
+.xbox { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #92C83E; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.xbox { text-decoration: none; }
+a.xbox:hover, a.xbox:visited, a.xbox:active { color: #eeeeee; }
+.windows { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #00BDF6; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.windows { text-decoration: none; }
+a.windows:hover, a.windows:visited, a.windows:active { color: #eeeeee; }
+.outlook { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #0072C6; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.outlook { text-decoration: none; }
+a.outlook:hover, a.outlook:visited, a.outlook:active { color: #eeeeee; }
+.coderwall { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #3E8DCC; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.coderwall { text-decoration: none; }
+a.coderwall:hover, a.coderwall:visited, a.coderwall:active { color: #eeeeee; }
+.tripadvisor { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.tripadvisor { text-decoration: none; }
+a.tripadvisor:hover, a.tripadvisor:visited, a.tripadvisor:active { color: #eeeeee; }
+.appnet { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #494949; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.appnet { text-decoration: none; }
+a.appnet:hover, a.appnet:visited, a.appnet:active { color: #eeeeee; }
+.goodreads { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #463020; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.goodreads { text-decoration: none; }
+a.goodreads:hover, a.goodreads:visited, a.goodreads:active { color: #eeeeee; }
+.tripit { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #1982C3; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.tripit { text-decoration: none; }
+a.tripit:hover, a.tripit:visited, a.tripit:active { color: #eeeeee; }
+.lanyrd { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #3c80c9; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.lanyrd { text-decoration: none; }
+a.lanyrd:hover, a.lanyrd:visited, a.lanyrd:active { color: #eeeeee; }
+.slideshare { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #4ba3a6; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.slideshare { text-decoration: none; }
+a.slideshare:hover, a.slideshare:visited, a.slideshare:active { color: #eeeeee; }
+.buffer { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.buffer { text-decoration: none; }
+a.buffer:hover, a.buffer:visited, a.buffer:active { color: #eeeeee; }
+.rss { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #f26109; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.rss { text-decoration: none; }
+a.rss:hover, a.rss:visited, a.rss:active { color: #eeeeee; }
+.vkontakte { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #5a7fa6; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.vkontakte { text-decoration: none; }
+a.vkontakte:hover, a.vkontakte:visited, a.vkontakte:active { color: #eeeeee; }
+.disqus { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #2e9fff; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.disqus { text-decoration: none; }
+a.disqus:hover, a.disqus:visited, a.disqus:active { color: #eeeeee; }
+.houzz { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #7CC04B; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.houzz { text-decoration: none; }
+a.houzz:hover, a.houzz:visited, a.houzz:active { color: #eeeeee; }
+.mail { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.mail { text-decoration: none; }
+a.mail:hover, a.mail:visited, a.mail:active { color: #eeeeee; }
+.patreon { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #E44727; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.patreon { text-decoration: none; }
+a.patreon:hover, a.patreon:visited, a.patreon:active { color: #eeeeee; }
+.paypal { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #009cde; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.paypal { text-decoration: none; }
+a.paypal:hover, a.paypal:visited, a.paypal:active { color: #eeeeee; }
+.playstation { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #000000; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.playstation { text-decoration: none; }
+a.playstation:hover, a.playstation:visited, a.playstation:active { color: #eeeeee; }
+.smugmug { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #ACFD32; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.smugmug { text-decoration: none; }
+a.smugmug:hover, a.smugmug:visited, a.smugmug:active { color: #eeeeee; }
+.swarm { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #FC9D3C; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.swarm { text-decoration: none; }
+a.swarm:hover, a.swarm:visited, a.swarm:active { color: #eeeeee; }
+.triplej { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #E53531; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.triplej { text-decoration: none; }
+a.triplej:hover, a.triplej:visited, a.triplej:active { color: #eeeeee; }
+.yammer { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #1175C4; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.yammer { text-decoration: none; }
+a.yammer:hover, a.yammer:visited, a.yammer:active { color: #eeeeee; }
+.stackoverflow { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #FD9827; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.stackoverflow { text-decoration: none; }
+a.stackoverflow:hover, a.stackoverflow:visited, a.stackoverflow:active { color: #eeeeee; }
+.drupal { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #00598e; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.drupal { text-decoration: none; }
+a.drupal:hover, a.drupal:visited, a.drupal:active { color: #eeeeee; }
+.odnoklassniki { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #f48420; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.odnoklassniki { text-decoration: none; }
+a.odnoklassniki:hover, a.odnoklassniki:visited, a.odnoklassniki:active { color: #eeeeee; }
+.android { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #8ec047; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.android { text-decoration: none; }
+a.android:hover, a.android:visited, a.android:active { color: #eeeeee; }
+.meetup { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e2373c; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.meetup { text-decoration: none; }
+a.meetup:hover, a.meetup:visited, a.meetup:active { color: #eeeeee; }
+.persona { font-size: 18px; padding: 7px 7px 4px 8px; color: #ffffff; background-color: #e6753d; margin-right: 5px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-font-smoothing: antialiased; }
+a.persona { text-decoration: none; }
+a.persona:hover, a.persona:visited, a.persona:active { color: #eeeeee; }
