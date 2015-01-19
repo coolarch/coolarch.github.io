@@ -56,7 +56,11 @@ hr {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
-  background: transparent;
+  background: #000000 url("../img/hubble.jpg") center left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #000000;
+  text-shadow: 0px 0px 10px #ffffff, 0px 0px 10px #ffffff, 0px 0px 10px #ffffff, 0px 0px 10px #ffffff, 0px 0px 10px #ffffff;
 }
 .jumbotron .btn {
   padding: 14px 24px;
@@ -87,6 +91,8 @@ hr {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    padding-top: 96px;
+    padding-bottom: 96px;
   }
 }
 
@@ -94,6 +100,38 @@ h1, h2, h3, h4, h5, h6 {
   font-family: bebas_neuebold
 }
 
+h2 {
+  text-align: center;
+}
+
 h4 {
   font-size: 24px;
+}
+
+a {
+  color: #b7b7b7;
+}
+
+.btn-default {
+  background: transparent !important;
+}
+
+footer p {
+  text-align: center;
+}
+
+.contributors {
+  background-color: #dddddd;
+  padding: 25px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.contributors p {
+  margin-top: 10px;
+}
+
+.project-description {
+  min-height: 90px;
 }

@@ -16,7 +16,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/jumbotron-narrow.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -31,6 +31,8 @@
 
   <body>
 
+		<a name="home"></a>
+
   	<div class="outer-container">
 
     <div class="container">
@@ -39,7 +41,6 @@
           <ul class="nav nav-pills pull-right">
             <li role="presentation"><a href="#home">Home</a></li>
             <li role="presentation"><a href="#about">About</a></li>
-            <li role="presentation"><a href="#contact">Contact</a></li>
           </ul>
         </nav>
         <h3 class="text-muted">CoolArch</h3>
@@ -48,126 +49,109 @@
       <div class="jumbotron">
         <h1>Tools &amp;&nbsp;Libraries</h1>
         <p class="lead">
-        	to&nbsp;make&nbsp;your architecture cool&nbsp;again
+        	to expand your architecture
         </p>
       </div>
+
+      <h2>Projects</h2>
 
       <div class="row marketing">
         <div class="col-lg-6">
           <h4>Whaleunit</h4>
-          <p>
-          	Docker support for JUnit based intergration tests.
-          </p>
+          <div class="project-description">
+	          <p>
+	          	Docker support for JUnit based intergration tests.
+	          </p>
+          </div>
           <p class="clearfix">
-          	<a href="http://www.arch.cool/whaleunit/" class="btn btn-default pull-right">More Details</a>
+          	<a href="http://www.arch.cool/whaleunit/" class="btn btn-default pull-right">More Info</a>
           </p>
 
           <h4>Stateroom</h4>
-          <p>
-          	Finite state machine library.
-          </p>
+          <div class="project-description">
+	          <p>
+	          	High performance finite state machine library allowing for creation of classical machine constructs,
+	          	as well as, advanced machines specific to your architectural use case.
+	          </p>
+          </div>
           <p class="clearfix">
-          	<a href="#" class="btn btn-default pull-right">More Details</a>
+          	<a href="http://www.arch.cool/stateroom/" class="btn btn-default pull-right">More Info</a>
           </p>
         </div>
 
         <div class="col-lg-6">
           <h4>Tapioca</h4>
-          <p>
-          	Extremely light weight DI container for Java.
-          </p>
+          <div class="project-description">
+	          <p>
+	          	Extremely light weight DI container for Java.
+	          </p>
+	        </div>
           <p class="clearfix">
-          	<a href="#" class="btn btn-default pull-right">More Details</a>
+          	<a href="http://www.arch.cool/tapioca/" class="btn btn-default pull-right">More Info</a>
           </p>
 
           <h4>OSGi Surveillance</h4>
-          <p>
-          	Monitor and control your OSGi application from both inside and outside the container.
-          </p>
+          <div class="project-description">
+	          <p>
+	          	Monitor and control your OSGi application from both inside and outside the container.
+	          </p>
+          </div>
           <p class="clearfix">
-          	<a href="#" class="btn btn-default pull-right">More Details</a>
+          	<a href="http://www.arch.cool/osgi-surveillance/" class="btn btn-default pull-right">More Info</a>
           </p>
         </div>
       </div>
 
-      <h2>About</h2>
+			<a name="about"></a>
 
       <div class="row">
         <div class="col-lg-6">
-        	<p>
-        		Foo
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        		<br />
-        	</p>
-        </div>
-        <div class="col-lg-6">
-        	<p>
-        		Bar
-        	</p>
-        </div>
-      </div>
+		      <h2>About</h2>
 
-      <h2>Contact</h2>
-
-      <div class="row">
-        <div class="col-lg-6">
         	<p>
-        		Foo
+        		Open source projects often start for different reasons.  Typically they are created out of need to push a boundry,
+        		to prove a concept, make a solution available to a wider audience or just to scratch a figurative itch.
         	</p>
+
+        	<p>
+        		The CoolArch project contributors are highly skilled architects, software engineers and testers that have day jobs and contribute here in their side time for the reasons above.
+        	</p>
+
+        	<p>
+        		We welcome your pull requests.
+        	</p>
+
         </div>
         <div class="col-lg-6">
-        	<p>
-        		Bar
-        	</p>
+        	<h2>Core Contributors</h2>
+
+					<ul class="media-list contributors">
+
+						<li class="media">
+							<span class="media-left">
+								<img src="img/silhouette78.svg">
+							</span>
+							<div class="media-body">
+								<h4 class="media-heading">Matt Werny</h4>
+								<span class="badge">Project Lead</span>
+								<span class="badge">Architect</span>
+								<!--
+								<p>
+									Description here
+								</p>
+								-->
+							</div>
+						</li>
+
+					</ul>
+
         </div>
       </div>
 
       <footer class="footer">
         <p>&copy; 2015 Cool Arch</p>
+
+        <p>Person icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>         is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></p>
       </footer>
 
     </div> <!-- /container -->
